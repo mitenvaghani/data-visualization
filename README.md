@@ -82,6 +82,20 @@ This document provides an overview of the order data, including details such as 
 - Rajasthan
 
 ```
+### Categorize wise Quanitity 
+
+![State wise Revenue](image/categorize_wise_qunitiy.png)
+
+```
+# Data Summary
+
+|   Categorys   |  Value [ % ]  |
+|---------------|---------------|
+| Electronics   |   20.55 %     |
+| Furniture     |   16.83 %     |
+| Clothing      |   62.62 %     |
+
+```
 
 
 
