@@ -1,5 +1,10 @@
 # Madhav Sales Report Data Visualization
 
+![Dashboard Image](dashboard.png)
+
+
+
+
 ## Order Data Overview
 
 This document provides an overview of the order data, including details such as Order ID, Order Date, Customer Name, State, and City.
