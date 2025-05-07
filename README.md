@@ -65,7 +65,7 @@ This document provides an overview of the order data, including details such as 
 
 ### Top state wise Revenue 
 
-![State wise Revenue](image/state wise revenu.png)
+![State wise Revenue](image/state_wise_revenu.png)
 
 ```
 # Data summary top five state
