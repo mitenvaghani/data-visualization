@@ -137,6 +137,22 @@ This document provides an overview of the order data, including details such as 
 | December   |       loss           |  
 
 ```
+### sub categorize wise profit 
+
+![Quanitity Salse wise payment method use](image/categorize_wise_profit.png)
+
+```
+# Data Summary
+
+|  payment method  |  Value [ % ]  |
+|------------------|---------------|
+| COD              |   43.74 %     |
+| EMI              |   10.49 %     |
+| UPI              |   20.61 %     |
+| Debit Card       |   13.02 %     |
+| Credit Card      |   11.97 %     |
+
+```
 
 
 
