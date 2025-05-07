@@ -6,7 +6,7 @@ This document provides an overview of the order data, including details such as 
 ```
 ## Orders Table
 
-| Order ID | Order Date  | Customer Name  | State            | City       |
+| Order ID | Order Date  | Customer Name  | State             | City       |
 |----------|-------------|----------------|-------------------|------------|
 | B-26055  | 10-03-2018  | Harivansh      | Uttar Pradesh     | Mathura    |
 | B-25993  | 03-02-2018  | Madhav         | Delhi             | Delhi      |
