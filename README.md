@@ -36,8 +36,29 @@ This document provides an overview of the order data, including details such as 
 | B-25643  | 50     | -44    | 2        | Clothing    | Hankerchief         | UPI           |
 ```
 
+## Data Summary
+
+### Dashboard title
+
+![Dashboard Title](image/header.png)
+
+
+### Dashboard digital data 
+### like
+- total Revenue ,
+- total Quantity ,
+- total Profit ,
+- total colurm ,
+
+![Dashboard digital data](image/data.png)
+
+
+
+
+
+
 ![Dashboard Summary](dashboard.png)
-![Dashboard Summary](images/data.png)
+
 
 
 
