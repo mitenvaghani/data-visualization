@@ -35,3 +35,18 @@ This document provides an overview of the order data, including details such as 
 | B-25687  | 387    | -213   | 5        | Clothing    | Saree               | UPI           |
 | B-25643  | 50     | -44    | 2        | Clothing    | Hankerchief         | UPI           |
 ```
+
+![Dashboard Summary](images/data.png)
+
+
+
+```
+# Data Summary
+
+| Value   | Description         |
+|---------|---------------------|
+| 438K    | Sum of Amount       |
+| 5615    | Sum of Quantity     |
+| 37K     | Sum of Profit       |
+| 120.9K  | Sum of Column       |
+```
