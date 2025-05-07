@@ -84,7 +84,7 @@ This document provides an overview of the order data, including details such as 
 ```
 ### Categorize wise Quanitity 
 
-![State wise Revenue](image/categorize_wise_quntity.png)
+![Categorize wise Quanitity](image/categorize_wise_quntity.png)
 
 ```
 # Data Summary
@@ -96,6 +96,41 @@ This document provides an overview of the order data, including details such as 
 | Clothing      |   62.62 %     |
 
 ```
+
+### Quanitity Salse wise payment method use
+
+![Quanitity Salse wise payment method use](image/payment_method.png)
+
+```
+# Data Summary
+
+|  payment method  |  Value [ % ]  |
+|------------------|---------------|
+| COD              |   43.74 %     |
+| EMI              |   10.49 %     |
+| UPI              |   20.61 %     |
+| Debit Card       |   13.02 %     |
+| Credit Card      |   11.97 %     |
+
+```
+
+### Mounth wise profit and loss 
+
+![Mounth wise profit and loss](image/payment_method.png)
+
+```
+# Data Summary
+
+|  payment method  |  Value [ % ]  |
+|------------------|---------------|
+| COD              |   43.74 %     |
+| EMI              |   10.49 %     |
+| UPI              |   20.61 %     |
+| Debit Card       |   13.02 %     |
+| Credit Card      |   11.97 %     |
+
+```
+
 
 
 
