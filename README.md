@@ -116,18 +116,25 @@ This document provides an overview of the order data, including details such as 
 
 ### Mounth wise profit and loss 
 
-![Mounth wise profit and loss](image/payment_method.png)
+![Mounth wise profit and loss](image/mounth_wise_profit_loss.png)
 
 ```
 # Data Summary
 
-|  payment method  |  Value [ % ]  |
-|------------------|---------------|
-| COD              |   43.74 %     |
-| EMI              |   10.49 %     |
-| UPI              |   20.61 %     |
-| Debit Card       |   13.02 %     |
-| Credit Card      |   11.97 %     |
+|   mounth   |  Value [profit/loss] |
+|------------|----------------------|
+| January    |       profit         |
+| February   |       profit         |
+| March      |       profit         |
+| April      |       profit         |
+| May        |       profit         |
+| June       |       profit         |
+| July       | <span style="color:red">loss</span> |
+| August     |       profit         |
+| September  |       profit         |
+| October    |       profit         |
+| November   |       profit         |
+| December   |       loss           |  
 
 ```
 
