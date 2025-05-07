@@ -144,13 +144,17 @@ This document provides an overview of the order data, including details such as 
 ```
 # Data Summary
 
-|  payment method  |  Value [ % ]  |
-|------------------|---------------|
-| COD              |   43.74 %     |
-| EMI              |   10.49 %     |
-| UPI              |   20.61 %     |
-| Debit Card       |   13.02 %     |
-| Credit Card      |   11.97 %     |
+|  Sub category  |  Value [ k ]  |
+|----------------|---------------|
+| printer        |     8.6 k     |
+| bookcase       |     6.5 k     |
+| saree          |     4.1 k     |
+| accessorise    |     3.4 k     |
+| table          |     3.1 k     |
+| trousers       |     2.8 k     |
+| stole          |     2.4 k     |
+| phone          |     1.8 k     |
+| hankerchief    |     1.8 k     |
 
 ```
 
