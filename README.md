@@ -36,7 +36,7 @@ This document provides an overview of the order data, including details such as 
 | B-25643  | 50     | -44    | 2        | Clothing    | Hankerchief         | UPI           |
 ```
 
-![Dashboard Summary](data.png)
+![Dashboard Summary](dashboard.png)
 ![Dashboard Summary](images/data.png)
 
 
