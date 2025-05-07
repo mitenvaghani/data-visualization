@@ -3,11 +3,11 @@
 ## Order Data Overview
 
 This document provides an overview of the order data, including details such as Order ID, Order Date, Customer Name, State, and City.
-```
+
 ## Orders Table
 
 ### table-1
-
+```
 | Order ID | Order Date  | Customer Name  | State             | City       |
 |----------|-------------|----------------|-------------------|------------|
 | B-26055  | 10-03-2018  | Harivansh      | Uttar Pradesh     | Mathura    |
@@ -23,14 +23,14 @@ This document provides an overview of the order data, including details such as 
 
 ### table-2
 ```
-| Order ID | Amount | Profit | Quantity | Category    | Sub-Category      | Payment Mode  |
-|----------|--------|--------|----------|-------------|--------------------|---------------|
+| Order ID | Amount | Profit | Quantity | Category    | Sub-Category        | Payment Mode  |
+|----------|--------|--------|----------|-------------|---------------------|---------------|
 | B-25681  | 1096   | 658    | 7        | Electronics | Electronic Games    | COD           |
 | B-26055  | 5729   | 64     | 14       | Furniture   | Chairs              | EMI           |
 | B-25955  | 2927   | 146    | 8        | Furniture   | Bookcases           | EMI           |
 | B-26093  | 2847   | 712    | 8        | Electronics | Printers            | Credit Card   |
 | B-25602  | 2617   | 1151   | 4        | Electronics | Phones              | Credit Card   |
-| B-25881  | 2244   | 247    | 4        | Clothing    | Trousers           | Credit Card   |
+| B-25881  | 2244   | 247    | 4        | Clothing    | Trousers            | Credit Card   |
 | B-25696  | 275    | -275   | 4        | Clothing    | Saree               | COD           |
 | B-25687  | 387    | -213   | 5        | Clothing    | Saree               | UPI           |
 | B-25643  | 50     | -44    | 2        | Clothing    | Hankerchief         | UPI           |
