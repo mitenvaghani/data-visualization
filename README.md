@@ -1,6 +1,6 @@
-## Madhav Sales Report Data Visualization
+# Madhav Sales Report Data Visualization
 
-# Order Data Overview
+## Order Data Overview
 
 This document provides an overview of the order data, including details such as Order ID, Order Date, Customer Name, State, and City.
 ```
