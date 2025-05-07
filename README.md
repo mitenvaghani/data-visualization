@@ -52,16 +52,6 @@ This document provides an overview of the order data, including details such as 
 
 ![Dashboard digital data](image/data.png)
 
-
-
-
-
-
-![Dashboard Summary](dashboard.png)
-
-
-
-
 ```
 # Data Summary
 
@@ -72,3 +62,27 @@ This document provides an overview of the order data, including details such as 
 | 37K     | Sum of Profit       |
 | 120.9K  | Sum of Column       |
 ```
+
+### Top state wise Revenue 
+
+![ State wise Revenue ](image/state wise revenu.png)
+
+```
+# Data summary
+## top five state
+## like
+- Maharastra
+- Madhya Pradesh
+- Uttar Pradesh
+- Delhi
+- Rajasthan
+
+```
+
+
+
+
+
+
+
+
