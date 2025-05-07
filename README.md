@@ -84,7 +84,7 @@ This document provides an overview of the order data, including details such as 
 ```
 ### Categorize wise Quanitity 
 
-![State wise Revenue](image/categorize_wise_qunitiy.png)
+![State wise Revenue](image/categorize_wise_quntity.png)
 
 ```
 # Data Summary
