@@ -158,6 +158,15 @@ This document provides an overview of the order data, including details such as 
 
 ```
 
+### Quter wise data divided
+
+![Quanitity Salse wise payment method use](image/quter_wise_divided.png)
+
+
+# total data summary
+
+The Madhav Sales Report provides valuable insights into sales performance, highlighting areas of strength and opportunities for improvement. The data indicates a strong performance in clothing sales, with COD being the most popular payment method. Monitoring monthly profit and loss trends will be crucial for strategic planning and decision-making moving forward.
+
 
 
 
